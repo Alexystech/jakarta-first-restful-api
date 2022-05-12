@@ -1,0 +1,7 @@
+com\slasher\model\AdmPresident$AdmPresidentBuilder.class
+com\slasher\controller\AdmPresidentController.class
+com\slasher\model\AdmPresident.class
+com\slasher\repository\AdmPresidentRepository.class
+com\slasher\controller\HelloController.class
+com\slasher\util\EntityManagerProducer.class
+com\slasher\controller\RestApplication.class
